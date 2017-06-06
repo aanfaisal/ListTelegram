@@ -58,8 +58,10 @@ List Group Programer Indonesia di Telegram
 * **Swift**
   + [Swift Indonesia](https://t.me/swiftID)
   
-### IOT
+### IOT and Robotika
 * [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
+* [Pegel WRT IOT] (https://t.me/pegelwrt)
+* [LabRobotika] (https://t.me/labrobotika)
 
 ### DevOps
 * [IDDevOps](https://t.me/IDDevOps)
