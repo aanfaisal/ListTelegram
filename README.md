@@ -38,6 +38,7 @@ List Group Programer Indonesia di Telegram
   + [Angular Indonesia](https://t.me/AngularID)
   + [Nodejs Indonesia](https://t.me/nodejsid)
   + [Vue.js Indonesia](https://t.me/vuejsid)
+  + [NEW Vue.js Indonesia](https://t.me/vuejsindonesia)
   + [Polymer Indonesia](https://t.me/polymer_id)
   + [Electron Desktop User Group](https://t.me/electronatom)
   + [React Native ID](https://t.me/reactnative_id)
