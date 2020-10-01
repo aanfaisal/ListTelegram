@@ -21,6 +21,12 @@ List Group Programer Indonesia di Telegram
   
 * **dotnet**
   + [dotnet.id](https://t.me/dotnetusergroup)
+  + [.NETCore Indonesia](https://t.me/dotnetcore_id)
+  + [C# Indonesia](https://t.me/idcsharp)
+  + [Blazor Indonesia](https://t.me/blazorid)
+  + [SQL Server Indonesia](https://t.me/sqlserverid)
+  + [Xamarin Indonesia](https://t.me/xamarinindonesia)
+  
 
 * **Elixir**
   + [Elixir ID](https://t.me/elixir_id)
